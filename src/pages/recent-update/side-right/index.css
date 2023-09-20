@@ -1,0 +1,6 @@
+.recent-content-wrapper {
+  /* padding-left: max(140px, 50%); */
+  .recent-content {
+    width: calc(100% - 290px);
+  }
+}
